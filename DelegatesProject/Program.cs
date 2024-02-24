@@ -33,6 +33,6 @@
             Console.WriteLine(str1);
 
             Console.ReadLine(); 
-       }
+        }
     }
 }
